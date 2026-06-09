@@ -30,12 +30,15 @@ Setup concluído (Ollama + modelo instalados):
 ![Setup](assets/setup.png)
 
 Status NORMAL:
+
 ![Status normal](assets/status_normal.png)
 
 Status CRÍTICO com alerta automático:
+
 ![Alerta crítico](assets/alerta_critico.png)
 
 Análise preditiva gerada pela IA:
+
 ![Análise da IA](assets/analise_ia.png)
 
 ## Vídeo de demonstração
