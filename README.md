@@ -19,7 +19,7 @@ Sistema de monitoramento de uma missão espacial experimental, feito em Python e
 ## Como executar
 Abra o notebook no Google Colab:
 
-[Acessar Notebook](COLE_AQUI_O_LINK_DO_COLAB)
+[Acessar Notebook](https://colab.research.google.com/drive/1MWQuskUdkng5p36G5iamQVGuKFyaRsgn?usp=sharing)
 
 Execute as células em ordem. A primeira célula instala o Ollama e baixa o modelo Llama automaticamente. A célula final sorteia uma nova leitura de sensores e exibe a análise da IA — rode novamente para ver outros cenários (normal e crítico).
 
