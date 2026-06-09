@@ -41,4 +41,4 @@ Análise preditiva gerada pela IA:
 ![Análise da IA](assets/analise_ia.png)
 
 ## Vídeo de demonstração
-[Assistir ao vídeo](COLE_AQUI_O_LINK_DO_VIDEO)
+[Assistir ao vídeo](https://youtu.be/f92ypodMiKk)
