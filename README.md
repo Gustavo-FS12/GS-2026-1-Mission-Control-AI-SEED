@@ -24,7 +24,6 @@ Abra o notebook no Google Colab:
 Execute as células em ordem. A primeira célula instala o Ollama e baixa o modelo Llama automaticamente. A célula final sorteia uma nova leitura de sensores e exibe a análise da IA — rode novamente para ver outros cenários (normal e crítico).
 
 ## Demonstração
-> Substitua pelas imagens reais. Salve os prints na pasta `assets/` e mantenha os nomes abaixo (ou ajuste as referências).
 
 Setup concluído (Ollama + modelo instalados):
 ![Setup](assets/setup.png)
